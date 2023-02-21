@@ -169,8 +169,8 @@ const Description = () => {
           <br />
           <span>
             <span className="font-semibold">2. </span>
-            Click the generate button to generate 10 YouTube titles and 10
-            Youtube descriptions
+            Click the generate button to generate 10 YouTube titles and a
+            Youtube description
           </span>
           <br />
           <span>
